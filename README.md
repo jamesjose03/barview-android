@@ -18,7 +18,7 @@ This project has been selected for **GirlScript Summer of Code 2020**. To begin 
 -  Ask for a review from a mentor/admin and wait until your code gets merged!
 
 ## Table of Contents
--		[Goal](#goal)
+-  [Goal](#goal)
 -  [Current Progress](#current-progress)
 -  [Installation](#installation)
 -  [Usage](#usage)
